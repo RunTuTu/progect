@@ -1,0 +1,263 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.header{
+	width: 100%;
+	height: 36px;
+	border-bottom: solid 1px #DFDFDF;
+}
+.header_inner{
+	width: 1200px;
+	height: 36px;
+	line-height: 36px;
+	margin: 0 auto;
+}
+.header_inner li{
+	font-family: "宋体";
+	list-style: none;
+	float: left;
+	padding: 0 15px;
+	font-size: 12px;
+	background: url(../img/headerTop_ulli.png) no-repeat top right;
+}
+.color0066CC{
+	color: #0066CC;
+}
+.header_inner li:nth-last-child(1){
+	background: none;
+}
+.headerBou{
+	width: 1200px;
+	height: 96px;
+	margin: 0 auto;
+}
+.headerBou_left{
+	margin-top: 25px;
+	float: left;
+}
+.headerBou_right{
+	float: right;
+	width: 298px;
+	margin-top: 40px;
+}
+.rightForm{
+	width: 298px;
+	height: 32px;
+	background: url(../img/searchDiv_form.png)no-repeat top right;
+}
+.rightForm input:nth-child(1){
+	width: 202px;
+    height: 28px;
+    line-height: 28px;
+    margin-top: 2px;
+    margin-left: 40px;
+    border: none;
+    background: transparent;
+    float: left;
+}
+.rightForm input:nth-child(2){
+	width: 55px;
+    height: 32px;
+    float: left;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+.headerBou_right ul{
+	margin-top: 7px;
+	
+}
+.headerBou_right li{
+	float: left;
+	padding-right: 11px;
+	font-size: 12px;
+	color: #666;
+}
+.nav{
+	height: 40px;
+	line-height: 40px;
+	background: #005BAC;
+	margin-top: 20px;
+}
+.nav_inner{
+	width: 1200px;
+	height: 40px;
+	margin: 0 auto;
+}
+.pingDao{
+	width: 236px;
+	height: 40px;
+	float: left;
+}
+.pingDao p img{
+	width: 29px;
+	height: 21px;
+	margin-top: 10px;
+	margin-left: 40px;
+	margin-right: 10px;
+	float: left;
+}
+.pingDao p a{
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.xiala{
+	position: absolute;
+	width: 236px;
+	height: 457px;
+	background: #005BAC;
+	font-size: 16px;
+	top: 193px;
+	display: none;
+}
+.xiala li{
+	height: 55px;
+    line-height: 55px;
+    border-top: solid 1px #4084C1;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.xiala li img{
+	float: left;
+    margin: 17px 10px 0 22px;
+}
+.xiala li a{
+	float: left;
+    color: #fff;
+}
+.xiala li span{
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.branch{
+	position: absolute;
+	width: 253px;
+	height: 53px;
+	line-height: 53px;
+	background: #0773D3;
+	left: -10px;
+	margin-top: 160px;
+}
+.branch img{
+	margin-left: 50px;
+}
+.branch a{
+	font-size: 16px;
+	color: #FFFFFF;
+	margin-left: 5px;
+}
+.nav_text{
+	margin-left: 80px;
+	float: left;
+	font-size: 16px;
+}
+.nav_text li{
+	float: left;
+	background: url(../img/headerMenu_ulli.png) no-repeat top right;
+	padding: 0 32px;
+	text-align: center;
+}
+.nav_text li a img{
+	float: left;
+	margin: 12px 10px 0 0;
+}
+.nav_text li a{
+	color: #FFFFFF;
+}
+.content{
+	width: 1200px;
+	height: 40px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.location{
+	padding-left: 15px;
+	font-size: 16px;
+}
+.location li{
+	float: left;
+	margin-right: 7px;
+}
+.location ul{
+	zoom: 1;
+}
+.news{
+	width: 960px;
+	padding-top: 20px;
+	text-align: center;
+	zoom: 1;
+	margin: 0 auto;
+	padding: 20px 120px;
+}
+.news h3{
+	padding-bottom: 15px;
+	font-size: 22px;
+	color: #005FAF;
+	border-bottom: dashed 1px #949393;
+}
+.news p{
+	text-align: left;
+	font-size: 13px;
+	line-height: 170%;
+	text-indent: 2em;
+	margin-top: 25px;
+}
+.news img{
+	margin-top: 35px;
+}
+.news p:nth-last-child(1){
+	text-indent: 0em;
+}
+.footer_img{
+	width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 30px;
+}
+.footer{
+	height: 123px;
+	background: #999;
+	margin-top: 30px;
+	text-align: center;
+}
+.footer ul{
+	padding-top: 35px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.footer li{
+	float: left;
+	width: 135px;
+	font-size: 15px;	
+	border-right: 2px solid #FFFFFF;
+}
+.footer li:nth-child(1){
+	margin-left: 250px;
+}
+.footer li:nth-last-child(1){
+	border: none;
+}
+.footer li a{
+	color: #FFFFFF;
+}
+.footer p{
+	clear: both;
+	padding-top: 25px;
+	color: #FFFFFF;
+}
+.returnTop{
+	width: 70px;
+	height: 65px;
+	background: url(../img/result-top-btn.png)no-repeat;
+	position: fixed;
+	right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+    display: none;
+}
+.my_a:hover{
+	color: #0056A9;
+}
+

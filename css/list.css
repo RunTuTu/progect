@@ -1,0 +1,222 @@
+.currentLocation{
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.location{
+	padding-left: 15px;
+	font-size: 16px;
+	color: #666;
+}
+.location li{
+	float: left;
+	margin-right: 7px;
+	
+}
+.location li a{
+	color: #666;
+}
+.location li a:hover{
+	color: #0056A9;
+}
+.images{
+	width: 1200px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.option{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border: solid 1px #ccc;
+    height: 50px;
+    background: #E0DEDA;
+    
+}
+.option ul{
+	
+	height: 28px;
+	line-height: 28px;
+	margin-top: 10px;
+	margin-left:12px ;
+}
+.option li{
+	float: left;
+	border: 1px solid #999999;
+	border-right: none;
+	background: #FFFFFF;
+}
+.my_li{
+	background: #005BAC !important;
+	
+}
+.my_li a{
+	color: #FFFFFF !important;
+}
+.cur{
+	background: #005BAC !important;
+	color: #FFFFFF !important;
+}
+.option li a{
+	display: block;
+	padding: 0 20px;
+	font-size: 14px;
+}
+.lastLi{
+	border-right: 1px solid #999999 !important;
+	position: relative;
+}
+.firstLi{
+	padding-right: 10px;
+	padding-left: 15px;
+}
+.xlliebiao{
+	line-height: 200%;
+	background: #FFFFFF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border: solid 1px #0066CC;
+    width: 120px;
+    position: absolute;
+    top: 28px;
+    display: none;
+}
+.xlliebiao a{
+	/*width: 80px;*/
+	display: block;
+	font-size: 12px !important;
+	margin-left: -1px;
+}
+.bianse{
+	background:#005BAC;
+	color: #FFFFFF;
+}
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.content_inner{
+	margin-right: -15px;
+}
+.content_inner div{
+	width: 290px;
+    height: 380px;
+    /*background: palegoldenrod;*/
+    margin: 15px 13px 0 0;
+    float: left;
+}
+.content_inner div a{
+	display: block;
+    border: solid 1px #A9A9A8;
+    text-align: center;
+}
+.content_inner div a img{
+	width: 280px;
+    height: 280px;
+}
+.my_p1{
+	width: 275px;
+    padding: 0 5px 0 10px;
+    line-height: 22px;
+    margin-top: 5px;
+    height: 46px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.my_p2{
+	font-size: 16px;
+    margin-top: 3px;
+    padding-left: 10px;
+}
+.my_p2 span{
+	color: #0066CC;
+    font-weight: bold;
+    font-size: 16px;
+}
+.my_p3{
+	text-decoration: line-through;
+    font-size: 16px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+a:hover{
+	text-decoration: none !important;
+}
+.page {
+  font-weight: 900;
+  height: 40px;
+  text-align: center;
+  color: #888;
+  margin: 20px auto 0;
+  background: #f2f2f2;
+}
+
+.pagelist {
+  font-size: 0;
+  background: #fff;
+  height: 50px;
+  line-height: 50px;
+}
+
+.pagelist span {
+  font-size: 14px;
+}
+
+.pagelist .jump {
+  border: 1px solid #ccc;
+  padding: 5px 8px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.pagelist .bgprimary {
+  cursor: default;
+  color: #fff;
+  background: #337ab7;
+  border-color: #337ab7;
+}
+
+.jumpinp input {
+  width: 55px;
+  height: 26px;
+  font-size: 13px;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.ellipsis {
+  padding: 0px 8px;
+}
+
+.jumppoint {
+  margin-left: 30px;
+}
+
+.pagelist .gobtn {
+  font-size: 12px;
+}
+
+.bgprimary {
+  cursor: default;
+  color: #fff;
+  background: #337ab7;
+  border-color: #337ab7;
+}
+.pagelist .jump.disabled{
+  pointer-events: none;
+  background: #ddd;
+}
+.fenye{
+	float: right;
+	padding-top: 20px;
+	padding-right: 180px;
+}

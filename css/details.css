@@ -1,0 +1,258 @@
+.currentLocation {
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+
+.location {
+	padding-left: 15px;
+	font-size: 16px;
+}
+
+.location li {
+	float: left;
+	margin-right: 7px;
+}
+
+.content {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.content_right {
+	width: 650px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+.content_right h5 {
+	font-size: 24px;
+}
+
+.cuxiao {
+	width: 510px;
+	height: 115px;
+	line-height: 115px;
+	font-size: 36px;
+	background: #0056A9;
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.cuxiao span {
+	font-size: 52px;
+}
+
+.content_right dl {
+	margin-top: 30px;
+	font-size: 16px;
+	color: #666;
+}
+
+.my_p {
+	padding-bottom: 30px;
+}
+
+.content_right dl:nth-child(2) {
+	margin-bottom: -115px !important;
+}
+
+.content_right dl dt {
+	width: 155px;
+	margin-top: 5px;
+	float: left;
+	font-size: 18px;
+}
+
+.content_right dl dd {
+	width: 390px;
+	margin-left: 10px;
+	float: left;
+}
+
+.content_right dd li {
+	float: left;
+	margin-right: 13px;
+	border: solid 1px #C1B9B9;
+	padding: 1px 6px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	margin-bottom: 10px;
+	color: #666;
+	position: relative;
+}
+
+.content_right ul li b{
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background: url(../img/tb-selected-b.gif) no-repeat;
+	bottom: 0;
+	right: 0;
+	display: none;
+}
+
+.my_fr {
+	margin-right: 20px;
+	position: relative;
+	width: 92px;
+	height: 32px;
+	float: left;
+}
+
+.jian {
+	position: absolute;
+	width: 25px;
+	height: 15px;
+	background: url(../img/cartNumberinp.jpg)no-repeat right bottom;
+	right: 0;
+	bottom: 0;
+	border: none;
+	cursor: pointer;
+}
+
+.my_text {
+	width: 62px;
+	height: 30px;
+	line-height: 30px;
+	border: #C1B9B9 solid 1px;
+	color: #888;
+	position: absolute;
+	text-align: center;
+	font-size: 16px;
+}
+
+.jia {
+	position: absolute;
+	width: 25px;
+	height: 15px;
+	background: url(../img/cartNumberinp.jpg)no-repeat right top;
+	right: 0;
+	top: 0;
+	border: none;
+	cursor: pointer;
+}
+
+.kucun {
+	float: left;
+	margin-top: 4px;
+	color: #666;
+	font-size: 18px;
+}
+
+.anniu {
+	margin-top: 85px;
+}
+
+.getGwc {
+	float: left;
+	display: block;
+	width: 183px;
+	height: 51px;
+	background: url(../img/shopGmcar.png)no-repeat;
+}
+
+.ljdg {
+	float: left;
+	display: block;
+	margin-left: 25px;
+	width: 183px;
+	height: 51px;
+	background: url(../img/shopGmcar.png)no-repeat right top;
+}
+
+.detailsCon_Bot {
+	width: 1200px;
+	margin-left: 158px;
+}
+
+.detailsCon_Bot_L {
+	width: 250px;
+}
+
+.reMen_h4 {
+	height: 38px;
+	line-height: 38px;
+	background-color: #005BAA;
+}
+
+.reMen_div_a {
+	border: #E1E1E1 solid 1px;
+}
+
+.reMen_div a img {
+	width: 246px;
+	height: 246px;
+}
+
+.detailsCon_Bot_R {
+	width: 925px;
+	overflow: hidden;
+}
+
+.goodsThe {
+	height: 37px;
+	background: url(../img/goodsThe.jpg) repeat-x bottom;
+}
+
+.goodsThe li {
+	float: left;
+	width: 110px;
+	background-color: #93BCE0;
+	margin-right: 2px;
+	height: 33px;
+	line-height: 33px;
+	color: #fff;
+	cursor: pointer;
+	text-align: center;
+}
+
+.goodsThe li.xxCurrent {
+	background-color: #005BAA !important;
+}
+
+.goodsThe li a:hover {
+	text-decoration: none;
+}
+.aaa{
+	display: block;
+}
+.xxListData {
+	padding-top: 10px;
+	text-align: center;
+}
+.xxListData2 {
+	display: none;
+	padding-top: 10px;
+	text-align: center;
+}
+.xxListData img {
+	max-width: 800px;
+}
+.xianshi{
+	display: block !important;
+}
+.ull li:hover{
+	border: 2px solid red;
+}
+.ull2 li:hover{
+	border: 2px solid red;
+}
+.tb-selected{
+	border: 2px solid red;
+    padding: 0px 5px;
+    position: relative;
+}
+.xiaotu{
+	display: block !important;
+}
+.detailsCon_Bot_R{
+	margin-bottom: 30px;
+}
+.biankuang{
+	border:2px solid red;
+}

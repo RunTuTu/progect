@@ -1,0 +1,170 @@
+.currentLocation {
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+
+.location {
+	padding-left: 15px;
+	font-size: 16px;
+}
+
+.location li {
+	float: left;
+	margin-right: 7px;
+}
+.images{
+	width: 1200px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.subSuccess{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+}
+.my_p{
+	padding-bottom: 15px;
+	line-height: 160%;
+	color: #3d1b1b;
+	margin-top: 15px;
+	font-size: 18px;
+}
+.my_sp{
+	display:inline-block;
+	width: 23px;
+	height: 23px;
+	position: relative;
+	background: url(../img/blBg.png)no-repeat -442px -144px;
+	top: 5px;
+	right: 5px;
+}
+.ddxx{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 50px;
+}
+.ddxx span{
+	height: 34px;
+    line-height: 34px;
+    padding: 0 25px;
+    background-color: #005BAA;
+    display: block;
+    text-align: center;
+    float: left;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.content{
+	width: 1200px;
+	margin-top: 10px;
+	margin: 0 auto;
+	border: solid 1px #BBB4B4;
+	padding: 8px 0 5px 0;
+}
+.tiao{
+	width: 1177px;
+	height: 30px;
+	line-height: 30px;
+    background-color: #DEDFDF;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 23px;
+}
+.neirong{
+	padding-left: 23px;
+	padding-bottom: 10px;
+}
+.neirong p{
+	font-size: 14px;
+	line-height: 180%;
+}
+.neirong p:nth-child(1){
+	margin-top: 5px;
+}
+.content table{
+	border: solid 1px #BBB4B4;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+}
+.th_1{
+	width: 285px;
+}
+.th_2{
+	width: 350px;
+}
+.th_3{
+	width: 180px;
+}
+.th_4{
+	width: 155px;
+}
+.th_5{
+	width: 195px;
+}
+.content table th{
+	font-weight: bold;
+    height: 33px;
+    background-color: #999;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.content table td{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-size: 14px;
+}
+.my_sp1{
+	float: left;
+	margin-left: 25px;
+}
+.my_sp2{
+	overflow: hidden;
+	white-space: nowrap;
+    text-overflow: ellipsis;
+    display: block;
+    text-align: center;
+    width: 330px;
+    height: 20px;
+    padding: 0 10px;
+}
+.jiesuan{
+	width: 100%;
+	height: 200px;
+	background: #DEDFDF;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.jiesuan_right{
+	width: 267px;
+	margin-top: 40px;
+	margin-right: 50px;
+	text-align: center;
+	float: right;
+	font-size: 16px;
+}
+.jiesuan_right p{
+	margin-top: 5px;
+}
+.jiesuan_p{
+	color: #4E4C4C;
+}
+.xian{
+	width: 100%;
+	height: 1px;
+	background: #B4B4B4;
+}
+.jiesuan_p2{
+	font-weight: bold;
+	color: #000;
+}
+.jiesuan_p2 span{
+	color: #0066CC;
+}

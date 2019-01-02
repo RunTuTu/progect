@@ -1,0 +1,62 @@
+.currentLocation{
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.location{
+	padding-left: 15px;
+	font-size: 16px;
+	color: #666;
+}
+.location li{
+	float: left;
+	margin-right: 7px;
+	
+}
+.location li a{
+	color: #666;
+}
+.location li a:hover{
+	color: #0056A9;
+}
+.images{
+	width: 1200px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.option{
+	width: 263px;
+	float: left;
+}
+.changeImg{
+	background: url(../img/procMecha_lulclk.jpg)no-repeat !important;	
+}
+.changeImg a{
+	color: #FFFFFF;
+}
+.option li{
+	background: url(../img/procMecha_lul.jpg) no-repeat;
+	width: 263px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin-top: 1px;
+	font-size: 20px;
+}
+.content_right{
+	float: right;
+	padding-bottom: 30px;
+}
+.content_right div{
+	display: none;
+}
+.right_1{
+	display: block !important;
+}
